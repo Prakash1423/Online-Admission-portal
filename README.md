@@ -9,11 +9,11 @@
               
               * Then user will enter the location.
         step3 :- 
-              * Next user will select the particular college or school.
+              * Next user will select the  college or school from the given location.
         step4 :- 
               * User will select the particular group or department.
         step5 :- 
-              * Then user will get the screen as details (school or college fee, exam fee, Timing).
+              * Then user will get the screen as some details like (school or college fee, exam fee, Timing).
         step6 :- 
               * Finally user will submit the admission form.
      
