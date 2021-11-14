@@ -25,6 +25,6 @@
            
            * Then admin will accept or decline the admission form.
         
-           * Admin will add , remove or edit the school or college details in admission portal.
+           * Admin will add , remove or edit the school or college details in admission portal..
               
 
